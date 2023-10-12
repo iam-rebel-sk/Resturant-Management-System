@@ -25,7 +25,7 @@
 
  
 
-The Resturant Management System is a simple Spring Boot application that allows you to add, get, update and delete Events & Students with endpoint has been accessed. It also provides an additional feature to add all the data in database.
+The Resturant Management System is a simple Spring Boot application that allows you to add, get, update and delete admin, user, food with endpoint has been accessed. It also provides an additional feature to add all the data in database.
 
  
 
@@ -36,7 +36,7 @@ The Resturant Management System is a simple Spring Boot application that allows 
 - **Framework:** Spring Boot
 - **Language:** Java
 - **Build Tool:** Maven
-- **Database:** H2 Database
+- **Database:** MySql Database
 
  
 
